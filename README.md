@@ -1,0 +1,1 @@
+FIDA (Fitness Disciplinary App) diimplementasikan sebagai aplikasi mobile Android yang menggabungkan pelacakan aktivitas fisik dengan mekanisme permainan untuk menjaga motivasi dan keterlibatan pengguna selama perjalanan kebugaran. 
